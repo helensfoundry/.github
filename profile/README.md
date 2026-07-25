@@ -1,6 +1,6 @@
 # Helen's Foundry
 
-**The strategic-intent layer for AI agents.**
+**The strategic intent layer for AI agents.**
 
 ## Your agents ship fast. Do they ship the right thing?
 
